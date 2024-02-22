@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pymupdf
+farm-haystack[faiss]==1.17.2
+pytest
